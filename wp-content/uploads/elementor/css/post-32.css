@@ -46,6 +46,21 @@
 .elementor-32 .elementor-element.elementor-element-9ae2803 .elementor-button:hover, .elementor-32 .elementor-element.elementor-element-9ae2803 .elementor-button:focus {color: #00d3ca;background-color: rgba(0,211,202,0);border-color: #00d3ca;}
 .elementor-32 .elementor-element.elementor-element-9ae2803 .elementor-button:hover svg, .elementor-32 .elementor-element.elementor-element-9ae2803 .elementor-button:focus svg {fill: #00d3ca;}
 .elementor-32 .elementor-element.elementor-element-9ae2803 > .elementor-widget-container {margin: -18px 0px 0px 0px;}
+.elementor-32 .elementor-element.elementor-element-bc5df2a > .elementor-container {max-width: 500px;}
+.elementor-32 .elementor-element.elementor-element-bc5df2a {box-shadow: 0px 0px 15px 0px rgba(0,0,0,.16) inset;margin-top: 43px;margin-bottom: 43px;padding: 25px 75px 25px 75px;}
+.elementor-32 .elementor-element.elementor-element-5fa2b3d > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 8px;}
+.elementor-32 .elementor-element.elementor-element-124719d .elementor-text-editor {text-align: center;column-gap: 0px;}
+.elementor-32 .elementor-element.elementor-element-124719d {color: rgba(0,0,0,.81960784313725);font-family: "Homenaje",Sans-serif;font-size: 30px;font-weight: 700;line-height: 2.9em;}
+.elementor-32 .elementor-element.elementor-element-124719d > .elementor-widget-container {margin: -23px 0px -80px 0px;padding: 0px 0px 0px 0px;}
+.elementor-32 .elementor-element.elementor-element-1963e50 .elementor-text-editor {text-align: center;}
+.elementor-32 .elementor-element.elementor-element-1963e50 {color: #000;line-height: .1em;}
+.elementor-32 .elementor-element.elementor-element-1963e50 > .elementor-widget-container {margin: 0px 0px -20px 0px;}
+.elementor-32 .elementor-element.elementor-element-15477fd .elementor-text-editor {text-align: center;column-gap: 0px;}
+.elementor-32 .elementor-element.elementor-element-15477fd {color: #000;font-family: "Noto Serif",Sans-serif;font-size: 16px;}
+.elementor-32 .elementor-element.elementor-element-7db4d6d .elementor-button {font-family: "Noto Serif",Sans-serif;font-size: 16px;fill: #000;color: #000;background-color: #fff;border-style: solid;border-width: 1px 1px 1px 1px;border-color: rgba(2,1,1,.17);border-radius: 46px 46px 46px 46px;padding: 14px 14px 14px 14px;}
+.elementor-32 .elementor-element.elementor-element-7db4d6d .elementor-button:hover, .elementor-32 .elementor-element.elementor-element-7db4d6d .elementor-button:focus {color: #00d3ca;background-color: rgba(0,211,202,0);border-color: #00d3ca;}
+.elementor-32 .elementor-element.elementor-element-7db4d6d .elementor-button:hover svg, .elementor-32 .elementor-element.elementor-element-7db4d6d .elementor-button:focus svg {fill: #00d3ca;}
+.elementor-32 .elementor-element.elementor-element-7db4d6d > .elementor-widget-container {margin: -18px 0px 0px 0px;}
 .elementor-32 .elementor-element.elementor-element-b62b5b7 {--divider-border-style: zigzag;--divider-border-color: #000;--divider-border-width: 1px;--divider-pattern-height: 20px;--divider-pattern-size: 20px;}
 .elementor-32 .elementor-element.elementor-element-b62b5b7 .elementor-divider-separator {width: 100%;}
 .elementor-32 .elementor-element.elementor-element-b62b5b7 .elementor-divider {padding-top: 15px;padding-bottom: 15px;}
@@ -107,6 +122,12 @@
 	.elementor-32 .elementor-element.elementor-element-ede4634 > .elementor-widget-container {margin: 0px -70px -72px -70px;padding: 0px 0px 0px 0px;}
 	.elementor-32 .elementor-element.elementor-element-0ad9103 > .elementor-widget-container {margin: 0px -46px 0px -46px;}
 	.elementor-32 .elementor-element.elementor-element-8c83f0d > .elementor-widget-container {margin: -17px -46px 0px -46px;}
+	.elementor-32 .elementor-element.elementor-element-bc5df2a {margin-top: 39px;margin-bottom: 39px;}
+	.elementor-32 .elementor-element.elementor-element-5fa2b3d > .elementor-element-populated {margin: -15px 0px 0px 0px;}
+	.elementor-32 .elementor-element.elementor-element-124719d {font-size: 25px;}
+	.elementor-32 .elementor-element.elementor-element-124719d > .elementor-widget-container {margin: 10px -70px -40px -70px;padding: 0px 0px 0px 0px;}
+	.elementor-32 .elementor-element.elementor-element-1963e50 > .elementor-widget-container {margin: 0px -46px 0px -46px;}
+	.elementor-32 .elementor-element.elementor-element-15477fd > .elementor-widget-container {margin: -17px -46px 0px -46px;}
 	.elementor-32 .elementor-element.elementor-element-6005ffe .elementor-divider__text {font-size: 25px;}
 	.elementor-32 .elementor-element.elementor-element-d952ad9 {margin-top: 39px;margin-bottom: 39px;}
 	.elementor-32 .elementor-element.elementor-element-b385971 > .elementor-element-populated {margin: -15px 0px 0px 0px;}
@@ -123,6 +144,7 @@
 .elementor-32 .elementor-element.elementor-element-f9ac0e3 .elementor-button:hover {background: #fff;box-shadow: 2px 2px 6px #e6e6e6,-2px -2px 6px #fff;}
 .elementor-32 .elementor-element.elementor-element-3ffba83 .elementor-button:hover {background: #fff;box-shadow: 3px 3px 6px #e6e6e6,-3px -3px 6px #fff;}
 .elementor-32 .elementor-element.elementor-element-9ae2803 .elementor-button:hover {background: #fff;box-shadow: 3px 3px 6px #e6e6e6,-3px -3px 6px #fff;}
+.elementor-32 .elementor-element.elementor-element-7db4d6d .elementor-button:hover {background: #fff;box-shadow: 3px 3px 6px #e6e6e6,-3px -3px 6px #fff;}
 .elementor-32 .elementor-element.elementor-element-6100ae7 .elementor-button:hover {background: #fff;box-shadow: 3px 3px 6px #e6e6e6,-3px -3px 6px #fff;}
 .elementor-32 .elementor-element.elementor-element-c09454c .elementor-button:hover {background: #fff;box-shadow: 3px 3px 6px #e6e6e6,-3px -3px 6px #fff;}
 @keyframes yourAnimation {0.0% {transform: scale(1) translate(-100px,0) skew(0deg);}
